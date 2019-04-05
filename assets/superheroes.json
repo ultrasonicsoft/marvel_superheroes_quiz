@@ -1,0 +1,82 @@
+[
+  {
+    "name": "3D Man",
+    "path": "3d_man.jpg"
+  },
+  {
+    "name": "Ages",
+    "path": "ages.gif"
+  },
+  {
+    "name": "Ajak",
+    "path": "ajak.jpg"
+  },
+  {
+    "name": "Banshee",
+    "path": "banshee.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "path": "black_panther.jpg"
+  },
+  {
+    "name": "Black Widow",
+    "path": "black_widow.jpg"
+  },
+  {
+    "name": "Captain Marvel",
+    "path": "captain_marvel.jpg"
+  },
+  {
+    "name": "Corvus Glaive",
+    "path": "corvus_glaive.jpg"
+  },
+  {
+    "name": "Cyclone",
+    "path": "cyclone.jpg"
+  },
+  {
+    "name": "DareDevil",
+    "path": "daredevil.jpg"
+  },
+  {
+    "name": "Drax",
+    "path": "drax.jpg"
+  },
+  {
+    "name": "Ebony Maw",
+    "path": "ebony_maw.jpg"
+  },
+  {
+    "name": "Falcon",
+    "path": "falcon.jpg"
+  },
+  {
+    "name": "Heimdall",
+    "path": "heimdall.jpg"
+  },
+  {
+    "name": "Hela",
+    "path": "hela.jpg"
+  },
+  {
+    "name": "Spiderman",
+    "path": "spiderman.jpg"
+  },
+  {
+    "name": "Thanos",
+    "path": "thanos.jpg"
+  },
+  {
+    "name": "Yon Rogg",
+    "path": "yon_rogg.jpg"
+  },
+  {
+    "name": "Quick Silver",
+    "path": "quick_silver.jpg"
+  },
+  {
+    "name": "Thor",
+    "path": "thor.jpg"
+  }
+]
